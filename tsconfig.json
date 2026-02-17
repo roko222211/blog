@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "content/posts/prvi-post.mdx"  ],
   "exclude": ["node_modules"]
 }
